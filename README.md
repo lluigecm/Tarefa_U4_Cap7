@@ -26,6 +26,9 @@ Exemplo de botão de compilação:
 
 ![Botão Compilador](fotos_readme/compilador.png)
 
+Diagrama do Wokwi:
+
+![Diagrama](fotos_readme/diagrama.png)
 ---
 
 ## Como Executar ⚡
