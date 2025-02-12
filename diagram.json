@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "author": "L. Luige",
+    "editor": "wokwi",
+    "parts": [
+      { "type": "board-pi-pico-w", "id": "pico", "top": 0, "left": 0, "attrs": {} },
+      { "type": "wokwi-servo", "id": "servo1", "top": 26.8, "left": 153.6, "attrs": {} }
+    ],
+    "connections": [
+      [ "pico:GP0", "$serialMonitor:RX", "", [] ],
+      [ "pico:GP1", "$serialMonitor:TX", "", [] ],
+      [ "pico:GND.8", "servo1:GND", "black", [ "h71.06", "v44.75" ] ],
+      [ "pico:3V3", "servo1:V+", "red", [ "h51.86", "v35.15" ] ],
+      [ "pico:GP22", "servo1:PWM", "green", [ "h51.86", "v-22.45" ] ]
+    ],
+    "dependencies": {}
+  }
