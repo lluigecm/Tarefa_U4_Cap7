@@ -1,4 +1,4 @@
-# Comunicação Serial, UART e I2C com Raspberry Pi Pico W 🚀
+# Uso de PWM com Raspberry Pi Pico W 🚀
 
 ## Descrição 📝
 Este projeto utiliza o microcontrolador **RP2040** para explorar conceitos de **PWM** e demonstrar as funcionalidades da placa de desenvolvimento. O projeto conta conta com um servo motor, que varia o ângulo de acordo com o valor de **PWM** recebido.
