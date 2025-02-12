@@ -31,7 +31,7 @@ Diagrama do Wokwi:
 ![Diagrama](fotos_readme/diagrama.png)
 ---
 
-## Como Executar ⚡
+## Como Executar Na BitDogLab⚡
 
 1. Conecte a placa **BitDogLab** via cabo **micro-USB** 🔌.
 2. Ative o modo **bootset** da placa.
