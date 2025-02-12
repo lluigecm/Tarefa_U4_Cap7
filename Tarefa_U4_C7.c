@@ -3,7 +3,7 @@
 #include "pico/stdlib.h"
 #include "hardware/pwm.h"
 
-#define SERVO_PIN 12
+#define SERVO_PIN 22
 
 // frequência de 50Hz -> (125 * 10^6) / (25000 * 100) ≈ 50Hz
 #define WRAP 25000
